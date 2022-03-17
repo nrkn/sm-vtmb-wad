@@ -5,30 +5,29 @@ decorating the haven instead
 
 ## What is included
 
-New levels : 1
-Sounds : No
-Music : No
-Graphics : Yes
-Dehacked/BEX Patch : No
-Demos : No
+- New levels : 1
+- Sounds : No
+- Music : No
+- Graphics : Yes
+- Dehacked/BEX Patch : No
+- Demos : No
 
 ## Play Information
 
-Game : DOOM2
-Map # : Map01
-Single Player : Designed for
-Cooperative 2-4 Player : No
-Deathmatch 2-4 Player : No
-Other game styles : No
-Difficulty Settings : Not implemented
+- Game : DOOM2
+- Map # : Map01
+- Single Player : Designed for
+- Cooperative 2-4 Player : No
+- Deathmatch 2-4 Player : No
+- Other game styles : No
+- Difficulty Settings : Not implemented
 
 ## Construction
 
-Base : New from scratch 
-Build Time : 12 hours (so far)
-Known Bugs : Scale is off, lighting is inconsistent
-May Not Run With : Scissors (yes I know this is a very old joke)
-Tested With : GZDoom, Chocolate, vanilla (with issues)
+- Base : New from scratch 
+- Build Time : 12 hours (so far)
+- May Not Run With : Scissors (yes I know this is a very old joke)
+- Tested With : GZDoom, Chocolate, vanilla (with issues)
 
 ## Editors used
 
