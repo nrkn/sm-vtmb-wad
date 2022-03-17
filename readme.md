@@ -5,6 +5,35 @@ decorating the haven instead
 
 ![One](img/01.png)  
 
+## Construction
+
+I exported the 2D top down view of the map from the Hammer map editor 
+(comes with Bloodlines SDK) and used it as a visual guide to build around,
+by setting it as the background grid image in Doom Builder
+
+![Grid background](img/grid-bg.png)  
+
+Then I started filling in the geometry one area at a time, starting from the 
+haven in the Pawnshop apartments, making textures and decorating the walls, 
+floor/ceiling etc as I went
+
+![Doom Builder](img/doom-builder.png)  
+
+Custom textures were made by: 
+- cobbling together various elements from the SDK
+- adding as little hand drawn stuff as possible
+- finally - and only when absolutely necessary because it's a lot of work - 
+  taking screenshots in Bloodlines, cropping out the thing I wanted and 
+  then perspective correcting, scaling, rotating etc it in Photoshop. 
+  
+All converted to glorious 256 color Doom palette, which generally means a 
+bit of color tweaking, because otherwise 90% of the textures come mostly 
+gray
+
+![Pawnshop wall](tex/walls/pawnwin2.png)
+
+The sky is a terrible hack of RSKY2 from Doom 2 
+
 ## Current status
 
 Very much a work in progress
