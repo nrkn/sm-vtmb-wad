@@ -52,6 +52,20 @@ Ridiculous storyline where Doomguy finds out about La Croix from Mercurio and
 instead of doing quests etc just finds a teleport to Venture Towers and BFGs
 La Croix, winning the game
 
+### General
+
+- Can I make the radio a switch that plays some deb of night?
+- Can I make the TV a switch that toggles off/still of news guy? 
+  or even a couple of animation frames of news guy?
+- How hard is it to add a series of stills as an intro? 
+  1. Doomguy drinking in bar
+  2. Doomguy sitting on bed (from vtmb intro)
+  3. Doomguy on theatre stage next to sire
+  4. Start!  
+- Can you hack in NPCs and have them tell you quest stuff? 
+  Just basic like go here do this, no dialog, too hard.
+  Check doomworld for prior art
+
 ## What is included
 
 - New levels : 1
