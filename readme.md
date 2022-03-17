@@ -40,11 +40,13 @@ decorating the haven instead
 
 ## Issues
 
-Scaling is wrong - mostly because Doomguy is really short
+Scaling is wrong - a mix of poor decisions and Doomguy being really short
 
 Textures need work - the sizes of many assets needs to be tweaked to avoid
 alignment issues in vanilla - tested for too long in gzdoom without checking 
-against vanilla :/
+against vanilla :/ - also they should be broken up into end pieces, middle 
+pieces, patches etc, just brute forcing it at the moment which makes 
+editing existing stuff and building new stuff fragile
 
 Lighting needs work 
 
