@@ -26,10 +26,12 @@ Locations needed:
 - Beach
 - Beach House
 
-Go to Mercurio location to get the blue key
-Blue key unlocks Beach House
-Fight though beach house to get another key
-Key unlocks ??? and then win level
+1. Go to Mercurio location to get the blue key
+2. Blue key unlocks Beach House
+3. Fight though beach house to get another key
+4. Key unlocks ??? 
+5. ???
+6. win level
 
 ### Bloodhunt
 
