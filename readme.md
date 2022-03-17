@@ -5,6 +5,51 @@ decorating the haven instead
 
 ![One](img/01.png)  
 
+## Current status
+
+Very much a work in progress
+
+I would like to be able to at least run around outside Santa Monica
+
+This alone is a huge amount of work, let alone the interiors
+
+Some ideas though:
+
+### Mecurio Quest
+
+Locations needed:
+
+- Haven
+- Main Street
+- Santa Monica Suites
+- Carpark
+- Beach
+- Beach House
+
+Go to Mercurio location to get the blue key
+Blue key unlocks Beach House
+Fight though beach house to get another key
+Key unlocks ??? and then win level
+
+### Bloodhunt
+
+Locations needed:
+
+- Haven
+- All streets
+- Carpark
+
+Fight through the blood hunt - lots of opportunities to mess around with enemy
+sprites, custom weapons (disciplines?)
+
+Use "walk over this sidedef to end level" (this exists?) around taxi 
+
+### BFG La Croix
+
+Ridiculous storyline where Doomguy finds out about La Croix from Mercurio and 
+instead of doing quests etc just finds a teleport to Venture Towers and BFGs
+La Croix, winning the game
+
 ## What is included
 
 - New levels : 1
