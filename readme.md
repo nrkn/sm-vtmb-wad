@@ -27,8 +27,8 @@ Custom textures were made by:
   then perspective correcting, scaling, rotating etc it in Photoshop. 
   
 All converted to glorious 256 color Doom palette, which generally means a 
-bit of color tweaking, because otherwise 90% of the textures come mostly 
-gray
+bit of color tweaking, because otherwise 90% of the textures come out 
+mostly gray
 
 ![Pawnshop wall](tex/walls/pawnwin2.png)
 
